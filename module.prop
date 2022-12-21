@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+id=Custiful-MIUI
+name=Custiful - Custom Beautiful Mods - MIUI Edition
+version=v1.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=SAP Team
+description=Make your device better by changing something in your device.
+updateJson=https://raw.githubusercontent.com/SAPTeamDEV/Custiful-MIUI/master/Custiful-MIUI.json
