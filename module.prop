@@ -1,7 +1,7 @@
 id=Custiful-MIUI
 name=Custiful - Custom Beautiful Mods - MIUI Edition
-version=v1.0
-versionCode=10
+version=v1.1
+versionCode=11
 author=SAP Team
 description=Make your device better by changing something in your device.
 updateJson=https://raw.githubusercontent.com/SAPTeamDEV/Custiful-MIUI/master/Custiful-MIUI.json
