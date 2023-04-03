@@ -1,3 +1,6 @@
+### v1.2
+* New feature: Disable roation suggest.
+
 ### v1.1
 * Add StevenBlack's hosts file.
 * Add MIUI 14 sounds.
